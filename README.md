@@ -7,6 +7,7 @@
 This is a repository containing capstone projects that I've been doing throughout the Hyperiondev software engineering course.
 
 <a name ="contents">
+
 ## Contents
 
 [Description](#description)
@@ -20,6 +21,7 @@ This is a repository containing capstone projects that I've been doing throughou
 [Credits](#credits)
 
 <a name ="credits"> 
+
 ##Credits
 
 Alexander Rigler - Coding
