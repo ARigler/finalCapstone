@@ -11,8 +11,11 @@ An application demonstrating the use of classes and object orientation for quick
 ## Contents
 
 [Description](#description)
+
 [Installation](#installation)
+
 [Usage](#usage)
+
 [Credits](#credits)
 
 <a name ="installation">
@@ -27,7 +30,9 @@ Either download and unzip the archive or git clone the repo
 
 Enter the command (from repo root)
 > cd t32
+
 > python inventory.py
+
 ![alt text](images/screenshot.png "inventory")
 
 <a name ="credits"> 
@@ -35,4 +40,5 @@ Enter the command (from repo root)
 ## Credits
 
 Alexander Rigler - Coding
+
 HyperionDev - Providing the template

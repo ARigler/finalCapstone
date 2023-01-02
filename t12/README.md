@@ -10,10 +10,13 @@ An application demonstrating the use of variables and control structures in the 
 
 ## Contents
 
-*[Description](#description)
-*[Installation](#installation)
-*[Usage](#usage)
-*[Credits](#credits)
+[Description](#description)
+
+[Installation](#installation)
+
+[Usage](#usage)
+
+[Credits](#credits)
 
 <a name ="installation">
 
@@ -27,7 +30,9 @@ Either download and unzip the archive or git clone the repo
 
 Enter the command (from repo root)
 > cd t12
+
 > python finance_calculator.py
+
 ![alt text](images/screenshot.png "finance_calc")
 
 <a name ="credits"> 
@@ -35,4 +40,5 @@ Enter the command (from repo root)
 ## Credits
 
 Alexander Rigler - Coding
+
 HyperionDev - Providing the template
