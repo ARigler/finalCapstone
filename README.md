@@ -22,7 +22,7 @@ This is a repository containing capstone projects that I've been doing throughou
 
 <a name ="credits"> 
 
-##Credits
+## Credits
 
 Alexander Rigler - Coding
 
