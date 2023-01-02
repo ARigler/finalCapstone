@@ -1,0 +1,16 @@
+Total number of users registered: 2
+Total number of tasks: 3
+
+User admin:
+Total tasks: 2
+Percentage of total tasks assigned to this user: 66.66666666666666
+Percentage of tasks assigned to this user completed:0.0
+Percentage of tasks assigned to this user incomplete: 50.0
+Percentage of tasks assigned to this user that are overdue: 50.0
+
+User SongOfSisyphus:
+Total tasks: 1
+Percentage of total tasks assigned to this user: 33.33333333333333
+Percentage of tasks assigned to this user completed:0.0
+Percentage of tasks assigned to this user incomplete: 100.0
+Percentage of tasks assigned to this user that are overdue: 0.0
